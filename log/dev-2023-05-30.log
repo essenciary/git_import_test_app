@@ -1,0 +1,7 @@
+┌ Info: 2023-05-30 20:09:04 Watching ["/home/coder/.julia/geniebuilder/apps/fromlocal2"]
+└ @ GenieAutoReload /home/coder/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-05-30 20:09:07 
+│ Web Server starting at http://0.0.0.0:9115 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server /home/coder/.julia/packages/Genie/Jummj/src/Server.jl:161
+┌ Info: 2023-05-30 20:09:07 Listening on: 0.0.0.0:9115, thread id: 1
+└ @ HTTP.Servers /home/coder/.julia/packages/HTTP/uAaAw/src/Servers.jl:366
